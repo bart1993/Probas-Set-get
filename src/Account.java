@@ -45,6 +45,7 @@ public class Account {
         out.print(procenty());
         out.println();
         out.println();
+        System.out.println("Hello");
     }
 
     /*
